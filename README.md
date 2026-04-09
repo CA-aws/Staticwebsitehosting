@@ -20,6 +20,7 @@ Prerequisites:
 * project code pushed to a GitHub repository
 
 Step 1: Commit project code to Github repo
+
 Step 2: Connect Github to AWS Amplify
 1. Sign in to the AWS Amplify Console.
 2. Click "Create new app".
