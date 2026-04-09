@@ -1,4 +1,5 @@
-Static Website — Hosted on AWS Amplify
+Static Website — Hosted on AWS Amplify 
+
 A static website built with HTML and CSS, continuously deployed via AWS Amplify connected to a GitHub repository.
 
 What is AWS Amplify?
@@ -62,6 +63,7 @@ HTTPS -	Enabled automatically
 CDN	- AWS CloudFront (global)
 
 Auto-deploy	- Yes(on every push to main)
+
 
 Useful links
 
