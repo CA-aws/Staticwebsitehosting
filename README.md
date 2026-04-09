@@ -40,12 +40,14 @@ Step 4: Wait for deployment
   
 My live URL: https://main.d12zdgqjghz6w7.amplifyapp.com
 
-Step 5: Setup the custom 404 pages
+Step 5: Setup the custom 404 pages 
+
 By default, Amplify doesn't know which page to show for missing URLs, 
 so we need to manually add a redirect rule in Hosting → Rewrites and Redirects section.
 Now any unknown URL will serve your custom error.html page
 
-Step 6: Set up custom domain(optional)
+Step 6: Set up custom domain(optional) 
+
 In Amplify Console, go to Hosting → Domain Management, click Add domain, and enter your custom domain name.
 Amplify will give you DNS records to add in your domain registrar.Once propagated, site goes live on your custom domain with a free SSL certificate.
 
